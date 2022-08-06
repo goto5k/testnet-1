@@ -41,10 +41,10 @@ Questions about incentivized testnet are ONLY allowed in the **#testnet-tasks** 
 
 ## 🛰  Relayer Tasks 
 
-| # | Pts |  Task  | Evidence |
-| -- | -- | ------------- |:-------------:|
+| # | Pts |  Task  | Evidence | Guide |
+| -- | -- | ------------- |:-------------:|:----------:|
 | **7** | 100 | run a relayer on ICA channels specified in #validator-announcements for at least 7 days | link to the stride relayer account and to one relayed tx |
-| **8** | 250 | relay using the new [v2 go relayer](https://github.com/cosmos/relayer/releases/tag/v2.0.0-rc4)      | link to packets relayed and link to the configured relayer fork on your github | [Guide](https://github.com/goto5k/task-08) 
+| **8** | 250 | relay using the new [v2 go relayer](https://github.com/cosmos/relayer/releases/tag/v2.0.0-rc4)      | link to packets relayed and link to the configured relayer fork on your github | [guide](https://github.com/goto5k/task-08)
 | **9** | 750 | relay interchain queries using the new [v2 go relayer](https://github.com/cosmos/relayer/releases/tag/v2.0.0-rc4) | link to ICQ packets relayed and link to the configured relayer fork on your github |
 
 ## ⚡ Validator Tasks 
